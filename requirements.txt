@@ -1,0 +1,6 @@
+python-dotenv
+openai
+pandas
+notebook
+modin[all]
+
